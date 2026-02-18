@@ -1,7 +1,8 @@
 # Run the commands below to activate venv
 # cd mysite
 # source .venv/bin/activate
-
+# python manage.py runserver
+# pip install django
 
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
